@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 neural style transfer by eager execution  
-paper: arXiv:1508.06576v2
+paper: https://arxiv.org/pdf/1508.06576v2.pdf
 
 weights used content_weight=2*1e3 style_weight=1e-2
 
