@@ -3,7 +3,7 @@ neural style transfer by eager execution
 paper: https://arxiv.org/pdf/1508.06576v2.pdf
 
 weights used content_weight=(2)(1e3) style_weight=1e-2
-style normalized by a coefficient of 0.75, instead of (height**2)*(width**2) 
+style normalized by a coefficient of 0.75, instead of (height**2)(width**2) 
 considerable style transfered in just 200 iterations by mentioned hyperparameters 
 
 layers used:
