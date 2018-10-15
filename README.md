@@ -16,3 +16,7 @@ style_layers = ['block1_conv1',
                 'block5_conv1'
                ]
  reference : https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
+
+# Mixed-Neural-Style-Transfer
+Used three loss functions two for style image and one for content image
+and tried to minimize them simultaneously
