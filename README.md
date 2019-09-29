@@ -22,9 +22,9 @@ Used three loss functions two for style image and one for content image
 and tried to minimize them simultaneously
 
 <p float="left">
-  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(25).png" width="200" />
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(25).png" width="300" />
   <img src="https://image.flaticon.com/icons/svg/61/61112.svg" width="50" height="150"/>
-  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(26).png" width="200" />
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(26).png" width="300" />
   <img src="https://i.pinimg.com/originals/b3/08/13/b30813efd2939f274b79b5c7ec050b04.jpg" width="150" height="150"/>
-  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(27).png" width="200" />
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(27).png" width="300" />
 </p>
