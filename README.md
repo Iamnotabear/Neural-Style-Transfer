@@ -28,3 +28,19 @@ and tried to minimize them simultaneously
   <img src="https://s3.amazonaws.com/static.graphemica.com/glyphs/i500s/000/010/202/original/003D-500x500.png?1275328205" width="50" height="150"/>
   <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(27).png" width="225" />
 </p>
+
+<p float="left">
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(28).png" width="225" />
+  <img src="https://image.flaticon.com/icons/svg/61/61112.svg" width="50" height="150"/>
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(29).png" width="225" />
+  <img src="https://s3.amazonaws.com/static.graphemica.com/glyphs/i500s/000/010/202/original/003D-500x500.png?1275328205" width="50" height="150"/>
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(30).png" width="225" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(31).png" width="225" />
+  <img src="https://image.flaticon.com/icons/svg/61/61112.svg" width="50" height="150"/>
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(32).png" width="225" />
+  <img src="https://s3.amazonaws.com/static.graphemica.com/glyphs/i500s/000/010/202/original/003D-500x500.png?1275328205" width="50" height="150"/>
+  <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(33).png" width="225" />
+</p>
