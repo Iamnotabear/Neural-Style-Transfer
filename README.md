@@ -25,6 +25,6 @@ and tried to minimize them simultaneously
   <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(25).png" width="200" />
   <img src="https://image.flaticon.com/icons/svg/61/61112.svg" width="50" height="150"/>
   <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(26).png" width="200" />
-  ->
+  <img src="https://cdn.imgbin.com/1/17/5/imgbin-equals-sign-mathematics-symbol-mathematical-notation-mathematics-KU78dk1q4SbVmDCA5pDpeNbvb.jpg" width="50" height="150"/>
   <img src="https://github.com/iamnotahumanbecauseiamabot/Neural-Style-Transfer/blob/master/results/download%20(27).png" width="200" />
 </p>
